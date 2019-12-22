@@ -1,5 +1,6 @@
 # jcart
 JCart is a simple e-commerce application built with Spring.
+https://sivalabs.in/2015/11/developing-a-simple-e-commerce-application-from-scratch-to-production-using-springboot/
 
 How to run it?
 
